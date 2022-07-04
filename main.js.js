@@ -18,7 +18,7 @@ Site:
 */
 
 var imgs = [];
-var imgNames = ["成员-01.png","成员-02.png","成员-03.png","成员-04.png", "成员-05.png", "成员-06.png","成员-07.png","成员-08.png","成员-09.png" ,"成员-10.png" ,"成员-11.png" ,];
+var imgNames = ["成员-01.jpg","成员-02.jpg","成员-03.jpg","成员-04.jpg", "成员-05.jpg", "成员-06.jpg","成员-07.jpg","成员-08.jpg","成员-09.jpg" ,"成员-10.jpg" ,"成员-11.jpg" ,];
 var imgIndex = -1;
 
 var loadPercentage = 0.045; // 0 to 1.0
